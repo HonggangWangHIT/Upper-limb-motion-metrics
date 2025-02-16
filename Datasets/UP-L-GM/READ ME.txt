@@ -1,0 +1,7 @@
+The structure of Label 1 is: Participant-Motion-Frame
+
+Motions:
+Pc: Pick up the cup with right hand; 
+Te: Touch the left ear with right hand; 
+Rh: Raise right hand; 
+Ct: Clean the table with right hand.

@@ -1,0 +1,11 @@
+In the last level of the catalogue:  name 1 is GH's coordinates;
+                                                    name 2 is EL's coordinates;
+                                                    name 3 is WR's coordinates.
+
+Penultimate directory file naming structure: Motion-Frame.
+
+Motions:
+Pc: Pick up the cup with right hand; 
+Te: Touch the left ear with right hand; 
+Rh: Raise right hand; 
+Ct: Clean the table with right hand.
